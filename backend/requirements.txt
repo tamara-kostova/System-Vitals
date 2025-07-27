@@ -5,3 +5,5 @@ psutil==5.9.6
 groq==0.4.1
 pydantic==2.5.0
 python-multipart==0.0.6
+black
+isort
